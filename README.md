@@ -272,7 +272,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Meet Brahmaniya**
 - GitHub: [@meet2121](https://github.com/meet2121)
-- Email: [Your Email]
+- Email: meetbrahmaniya@gmail.com
 
 ## 🙏 Acknowledgments
 
