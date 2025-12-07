@@ -1,0 +1,33 @@
+# Core Deep Learning and ML Libraries
+torch==2.2.0
+torchvision==0.17.0
+transformers==4.38.1
+scikit-learn==1.3.2
+
+# Image Processing and Diffusion
+diffusers==0.28.0
+Pillow==10.0.0
+acceleate==0.30.0
+
+# Hugging Face and Configuration
+huggingface-hub==0.22.2
+omegaconf==2.3.0
+safetensors==0.4.2
+
+# Scientific Computing and Data Processing
+numpy==1.26.4
+pandas==2.1.3
+scipy==1.11.4
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Utilities and UI
+ipywidgets==8.1.1
+tqdm==4.66.1
+
+# Optional: For enhanced upscaling
+realesrgan==0.3.0
+
+# Optional: For advanced visualization
+notebook==7.0.6
+jupyterlab==4.0.9
